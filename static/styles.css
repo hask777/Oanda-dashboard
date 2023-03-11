@@ -56,6 +56,11 @@ table th, table td {
     background-color: rgba(204, 46, 59, 0.753);
 }
 
+#chartDiv {
+    height: 80vh;
+}
+
+
 
 
 
